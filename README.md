@@ -10,4 +10,5 @@ Install IDLE to run in Python 3
 Download Python from https://www.python.org/downloads/
 ```
 ## Deployment
-⋅⋅* Unordered sub-list. 
+1. Clone or download to your computer
+2. dsdg
