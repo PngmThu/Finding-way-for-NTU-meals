@@ -11,4 +11,7 @@ Download Python from https://www.python.org/downloads/
 ```
 ## Deployment
 1. Clone or download to your computer
-2. dsdg
+2. Run IDLE
+3. Open recom.py
+4. Run the program
+5. Explore our project
