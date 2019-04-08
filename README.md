@@ -5,3 +5,7 @@ Install pygame from command line
 ``` 
 pip install pygame 
 ```
+Install IDLE to run in Python 3
+```
+Download Python from https://www.python.org/downloads/
+```
