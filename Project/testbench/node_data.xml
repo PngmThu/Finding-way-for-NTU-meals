@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<data>
+<node name='North Spine Canteen'>
+<posx>236</posx>
+<posy>231</posy>
+<connected></connected>
+<connected></connected>
+<connected></connected>
+</node>
+
+<node name='South Spine Canteen'>
+<posx>175</posx>
+<posy>459</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 1'>
+<posx>442</posx>
+<posy>433</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 2'>
+<posx>484</posx>
+<posy>361</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 4'>
+<posx>339</posx>
+<posy>495</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 9'>
+<posx>620</posx>
+<posy>224</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 11'>
+<posx>738</posx>
+<posy>174</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 13'>
+<posx>444</posx>
+<posy>100</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 15'>
+<posx>526</posx>
+<posy>106</posy>
+<connected></connected>
+</node>
+
+<node name='Canteen 16'>
+<posx>396</posx>
+<posy>151</posy>
+<connected></connected>
+</node>
+
+<node name='genericNode'>
+<posx>396</posx>
+<posy>151</posy>
+<connected></connected>
+</node>
+
+</data>
