@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<data>
+  <canteen name="North Spine Canteen" rank="2">
+    <food>
+      <name>longtong</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>mee rebus</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>mee siam</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>mee soto</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>roasted pork rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>char siew rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>roasted duck noodle</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>roasted duck rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>steamed chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>roasted chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>1 meat + 1 veg + rice</name>
+      <price>2.30</price>
+    </food>
+    <food>
+      <name>curry chicken noodle</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>roasted chicken noodle</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>3 veg + rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>yi mian / koka mian</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>u mian</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>mee sua</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>ban mian / mee hoon kway</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>bee hoon</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>mushroom minced meat</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>lotus root pork ribs soup</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>3 (indian) veg + rice</name>
+      <price>3.00</price>
+    </food>
+  </canteen>
+  <canteen name="South Spine Canteen" rank="1">
+    <food>
+      <name>bee hoon goreng</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>mee goreng</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>1 seafood + 1 veg + rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>1 beef / mutton + 1 veg + rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>1 chicken + 1 veg + rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>2 veg + rice</name>
+      <price>1.50</price>
+    </food>
+    <food>
+      <name>3 veg + rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>yellow ginger rice (1 mock meat + 1 veg + rice)</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>pineapple with chicken set</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>healthy set</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>hot &amp; spicy meat set</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>bean paste noodle</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>mala beef noodle</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>3 flavours set</name>
+      <price>2.90</price>
+    </food>
+    <food>
+      <name>1 meat + 2 veg + rice</name>
+      <price>2.40</price>
+    </food>
+    <food>
+      <name>1 meat + 1 veg + rice</name>
+      <price>1.90</price>
+    </food>
+    <food>
+      <name>yee mee / mee sua</name>
+      <price>2.90</price>
+    </food>
+    <food>
+      <name>vegetarian herbal mock mutton</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>vegetarian tom yum mock</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>vegetarian hor fun</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>vegetarian longtong</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>vegetarian lor mee</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>vegetarian laksa</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>vegetarian kway chap</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>vegetarian curry noodle/bee hoon</name>
+      <price>2.30</price>
+    </food>
+    <food>
+      <name>vegetarian mock chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>mayonnaise chicken cutlet rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>steamed chicken rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>thai style chicken cutlet rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>roasted pork rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>lemon chicken cutlet rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>fried/steamed dumplings (6pcs)</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>briyani dum set A</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>mee goreng / nasi goreng</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>chapati set</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>poori set</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>chicken/sardine murtabak</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>prata - plain</name>
+      <price>0.60</price>
+    </food>
+    <food>
+      <name>prata egg</name>
+      <price>1.00</price>
+    </food>
+    <food>
+      <name>ban mian / u mian / mee hoon kway</name>
+      <price>2.90</price>
+    </food>
+    <food>
+      <name>bee hoon / thick bee hoon</name>
+      <price>2.90</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 1" rank="7">
+    <food>
+      <name>steamed chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>roasted meat rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>roasted chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>BBQ pork rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>chicken chop rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>2 veg + 1 rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>3 veg + rice</name>
+      <price>2.50</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 2" rank="5">
+    <food>
+      <name>steamed chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>roasted chicken rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>handmade noodle (bone soup)</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>ramen</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>2 veg + rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>3 veg + rice</name>
+      <price>2.60</price>
+    </food>
+    <food>
+      <name>bim bim bap</name>
+      <price>3.80</price>
+    </food>
+    <food>
+      <name>oreo cream waffle</name>
+      <price>1.90</price>
+    </food>
+    <food>
+      <name>dumplings (6pcs)</name>
+      <price>4.00</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 4" rank="8">
+    <food>
+      <name>hor fun</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>spanish tomato fried rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>yangzhou fried rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>lemon chicken rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>thai sweet &amp; sour fish rice</name>
+      <price>3.00</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 9" rank="4">
+    <food>
+      <name>mixed veg / homestyled fried rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>fried beef hor fun</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>shrimp fried rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>seafood/fish hor fun</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>black bean sauce hor fun</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>shao zi mian</name>
+      <price>2.70</price>
+    </food>
+    <food>
+      <name>spicy veg handmade noodle</name>
+      <price>2.70</price>
+    </food>
+    <food>
+      <name>tomato &amp; eggs handmade</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>you po mian</name>
+      <price>2.70</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 11" rank="10">
+    <food>
+      <name>egg fried rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>indian vegetarian</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>ramen</name>
+      <price>2.50</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 13" rank="11">
+    <food>
+      <name>2 veg + rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>fried rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>plain ramyeon</name>
+      <price>2.80</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 14" rank="6">
+    <food>
+      <name>nasi lamak</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>soto ayam</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>mee rebus</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>mee hoon kway</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>dry ramen</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>fried fish bee hoon</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>1 meat + 2 veg + rice</name>
+      <price>2.70</price>
+    </food>
+    <food>
+      <name>3 veg + rice</name>
+      <price>2.00</price>
+    </food>
+  </canteen>
+  <canteen name="Canteen 16" rank="3">
+    <food>
+      <name>veg maggie goreng</name>
+      <price>2.30</price>
+    </food>
+    <food>
+      <name>veg mee goreng</name>
+      <price>2.30</price>
+    </food>
+    <food>
+      <name>white carrot cake</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>black carrot cake</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>veg &amp; mushroom noodle soup</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>soup noodle (veg, egg &amp; chicken frank)</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>dumpling soup (9pcs)</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>3 veg + rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>1 meat (chicken/pork) + 1 veg + rice</name>
+      <price>2.00</price>
+    </food>
+    <food>
+      <name>1 meat (chicken/pork) + 2 veg + rice</name>
+      <price>2.50</price>
+    </food>
+    <food>
+      <name>2 meat (chicken/pork) + 1 veg + rice</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>2 chapati + 2 veg + puthina chutney</name>
+      <price>3.00</price>
+    </food>
+    <food>
+      <name>japanese cha shu rice</name>
+      <price>2.80</price>
+    </food>
+    <food>
+      <name>japanese original curry rice</name>
+      <price>3.00</price>
+    </food>
+  </canteen>
+  <canteen name="Pioneer Canteen" rank="9">
+    <food>
+      <name>vegetarian bee hoon</name>
+      <price>3.00</price>
+    </food>
+  </canteen>
+</data>
