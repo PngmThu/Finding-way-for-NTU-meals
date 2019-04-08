@@ -10,4 +10,4 @@ Install IDLE to run in Python 3
 Download Python from https://www.python.org/downloads/
 ```
 ## Deployment
-⋅⋅* sfgd
+⋅⋅* Unordered sub-list. 
